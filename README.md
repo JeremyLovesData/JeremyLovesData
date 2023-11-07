@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeremyLovesData
 - 👀 I’ve been a recruiter for 10+ years and looking to explore my data and development side
 - 🌱 I’m currently learning Python and Tableau
-- 💞️ I’m looking to collaborate on anything data related again
+- 💞️ I’m looking to find entry level positions in development or data analysis
 - 📫 You can email me at JeremyLovesData@gmail.com
 
 <!---
